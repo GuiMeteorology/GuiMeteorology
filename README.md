@@ -1,6 +1,6 @@
 ## Hi there, I'm Guilherme 👋
 
-- 🔭 I'm a meteorologist working in research and coding in atmospheric sciences
+- 🔭 I'm a meteorologist from Brazil working in research and coding in atmospheric sciences
 - 📫 How to reach me: guilherme.almeida_santos@usp.br
 
 <!--
